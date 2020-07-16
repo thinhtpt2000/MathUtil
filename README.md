@@ -8,8 +8,8 @@ This repo contains the source code of a smple Java application used to demonstra
  Markdown file - this file itself
 
 ## Connect me via
-1. [GitHub](httpsgithub.comthinhtpt2000)
-2. [Facebook](httpswww.facebook.comthinhtpt.00)
-3. [Email](mail thinhtpt.00)
-4. [Website Blog](httpscodecungtui.github.io)
+1. [GitHub](https://github.com/thinhtpt2000)
+2. [Facebook](https://www.facebook.com/thinhtpt.00/)
+3. [Email](mail: thinhtpt.2000@gmail.com)
+4. [Website Blog](https://codecungtui.github.io/)
 #### © 2020 by thinhtpt
