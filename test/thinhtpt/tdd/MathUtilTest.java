@@ -42,7 +42,7 @@ public class MathUtilTest {
         //trong khi đó ngoại lệ ko ohải là actual value để so sánh
         //ta phải xài chiêu khác khi bắt ngoại lệ coi có đúng là ngoại lệ mình cần hem ?? :>
         computeFactorial(-5);
-        computeFactorial(16);
+        computeFactorial(16); // giai thừa tăng rất nhanh, không chơi quá 15
     }
     //code có thể bị lỗi nhưng Clean And Build luôn ra file.jar nếu code ko sai syntax
     //----> nguy hiểm
