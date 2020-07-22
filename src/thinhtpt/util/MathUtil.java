@@ -18,7 +18,7 @@ public class MathUtil {
     // int chỉ tối đa 2 tỷ 1, nên ta xài long mới an toàn
     // thực ra 15! to lắm rồi, nên ta chỉ tính giai thừa từ 15 trở lại
     public static long computeFactorial(int n) {
-        if (n < 0) {
+        if (n < 0 || n > 15) {
             throw new IllegalArgumentException("Invalid input. n must be >= 0 and <= 15");
         }
         long result = 1;
